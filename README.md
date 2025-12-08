@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0441-arranging-coins) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
