@@ -1,0 +1,71 @@
+name: Organize LeetCode
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:  # Allows manual run
+
+jobs:
+  organize:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required for pushing
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Organize files by difficulty
+        run: |
+          # Create folders
+          mkdir -p Easy Medium Hard
+          
+          # Find and process ALL code files
+          find . -type f \( -name "*.py" -o -name "*.java" -o -name "*.cpp" -o -name "*.js" -o -name "*.ts" \) \
+                 ! -path "./.git/*" ! -path "./Easy/*" ! -path "./Medium/*" ! -path "./Hard/*" | while read file; do
+            
+            echo "Checking: $file"
+            
+            # Look for ANY difficulty mention (case insensitive)
+            if grep -qi "\b\(difficulty\|level\)\s*[:=]\s*easy\|\beasy\s*\(difficulty\|level\)\b" "$file"; then
+              base=$(basename "$file")
+              # Handle duplicates
+              if [ -f "Easy/$base" ]; then
+                base="${base%.*}_$(date +%s).${base##*.}"
+              fi
+              mv "$file" "Easy/$base"
+              echo "  -> Moved to Easy/"
+              
+            elif grep -qi "\b\(difficulty\|level\)\s*[:=]\s*medium\|\bmedium\s*\(difficulty\|level\)\b" "$file"; then
+              base=$(basename "$file")
+              if [ -f "Medium/$base" ]; then
+                base="${base%.*}_$(date +%s).${base##*.}"
+              fi
+              mv "$file" "Medium/$base"
+              echo "  -> Moved to Medium/"
+              
+            elif grep -qi "\b\(difficulty\|level\)\s*[:=]\s*hard\|\bhard\s*\(difficulty\|level\)\b" "$file"; then
+              base=$(basename "$file")
+              if [ -f "Hard/$base" ]; then
+                base="${base%.*}_$(date +%s).${base##*.}"
+              fi
+              mv "$file" "Hard/$base"
+              echo "  -> Moved to Hard/"
+            fi
+          done
+          
+      - name: Commit and push if changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          
+          # Check if there are changes
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
+          git add .
+          git commit -m "📚 Auto-organized LeetCode problems by difficulty"
+          git push
