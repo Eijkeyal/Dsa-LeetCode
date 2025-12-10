@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,8 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0278-first-bad-version) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
