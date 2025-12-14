@@ -9,7 +9,7 @@ class Solution {
             }else if(nums[mid]<nums[mid]){
                 end= mid;
             } else{
-                end--;
+                end--;//Removing one duplicate does not remove the minimum If the minimum were nums[end], then nums[mid] would also be the same
             }
 
         }
