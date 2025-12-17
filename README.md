@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
 |  |
 | ------- |
@@ -61,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0075-sort-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
