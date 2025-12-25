@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
