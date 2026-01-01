@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0704-binary-search) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
