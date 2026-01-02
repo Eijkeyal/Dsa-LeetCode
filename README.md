@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0179-largest-number) |
+| [0344-reverse-string](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0344-reverse-string) |
 | [2418-sort-the-people](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2418-sort-the-people) |
 ## Greedy
 |  |
