@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2418-sort-the-people) |
