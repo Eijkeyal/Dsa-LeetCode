@@ -15,6 +15,7 @@
 class Solution {
     public int[] sortArray(int[] nums) {
         for (int i =1;i<nums.length;i++){
+            //apply insertion sort
             int current = nums[i];
             int previous = i-1;
             while(previous>=0 && nums[previous]>current){
