@@ -1,15 +1,15 @@
 /*class Solution {
     public int[] sortArray(int[] nums) {
-    for(int i =5;i>=1;i--){
-        int curr = nums[i];
-        int previous = i-1;
-        while(previous>=0 && nums[previous]>curr){
-            nums[previous+1]=nums[previous];
-            previous--;
+    for(int i = 0;i<nums.length;i++){
+        for(int j=0;<nums.length;j++){
+            if(nums[i]>nums[j]){
+                int temp = nums[i];
+                nums[i]=nums[j];
+                nums[j]=temp;
+            }
         }
-        nums[previous +1] = curr;
+        return nums;
     }
-    return nums;
   }
 }*/
 class Solution {
