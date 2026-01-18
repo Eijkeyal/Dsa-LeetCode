@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
