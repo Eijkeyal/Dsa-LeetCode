@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0645-set-mismatch) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0242-valid-anagram) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0912-sort-an-array) |
