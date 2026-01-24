@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0645-set-mismatch) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0389-find-the-difference) |
 | [2418-sort-the-people](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2418-sort-the-people) |
 ## Greedy
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
