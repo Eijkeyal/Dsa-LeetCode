@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2418-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2418-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2540-minimum-common-value) |
 ## Interactive
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2540-minimum-common-value](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
