@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0389-find-the-difference) |
 | [2418-sort-the-people](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2418-sort-the-people) |
 ## Greedy
