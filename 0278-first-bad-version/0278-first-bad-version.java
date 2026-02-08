@@ -3,21 +3,17 @@
 
 public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
-        int start  = 1;
-        int end = n;
-        while(start<end){
-            int version = start + (end - start)/2;
-
-            if(isBadVersion(version)){
-                end = version;
-            } else{
-                start = version +1;
-
-            }
+        //This is the revision of the problem 278. First Bad Version
+       int start = 1;//It started From 1
+       int end = n;// Goes till the end
+       while(start<end){
+        int mid = start + (end - start)/2;
+        if(isBadVersion(mid)){//it checks the mid with the isBadVersion API if it found false then it increses mid +1 and start will become 4 by adding 3+1
+            end = mid; // and return the value of mid
+        } else {
+            start = mid +1;// otherwise it added every iteration with one increses
         }
-        return start;
+       } 
+       return start;
     }
 }
-
-
-
