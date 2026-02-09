@@ -1,5 +1,5 @@
 class Solution {
-    public int[] intersection(int[] nums1, int[] nums2) {
+    public int[] intersection(int[] nums1, int[] nums2) {/*
         // using hashSet to store results in hashset for uniqueness
         HashSet<Integer> resultSet = new HashSet<>();
         // find common elements
@@ -17,5 +17,32 @@ class Solution {
             result[index++] = num;
         }
         return result;
+        */
+        Arrays.sort(nums1);//Sort the nums1 Array
+        Set<Integer> result = new HashSet<>();// use a set to store unique intersection elements 
+        //Set data type doesn't allow the duplicates values 
+       for(int target:nums2){//for each element in nums2, search in sorted nums1
+        int start=0;
+        int end = nums1.length - 1;
+        //binary search for target in nums1
+        while(start<=end){
+            int mid = start + (end - start)/2;
+            if(nums1[mid]==target){//found the target in nums1, add tot he result
+                result.add(target);
+                break;//exist the bineary search for this target
+            }else if (nums1[mid]<target){
+                start = mid +1;
+            } else {
+                end = mid -1;
+            }
+        }
+       }
+       //convert set to Array (required return type)
+       int arr[] = new int [result.size()];
+       int i = 0;
+       for(int num:result){
+        arr[i++] = num;
+       }
+       return arr;//return the intersection of array
     }
 }
