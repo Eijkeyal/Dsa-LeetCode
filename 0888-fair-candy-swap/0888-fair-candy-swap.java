@@ -29,8 +29,7 @@
         return new int[0];//should never reach here (gauranteed solution)
     }
 }
-*/
-
+*
 import java.util.Arrays;
 
 class Solution {
@@ -74,5 +73,54 @@ class Solution {
         }
         
         return new int[0]; // Should never reach here (guaranteed solution)
+    }
+}
+*/
+class Solution {
+    public int[] fairCandySwap(int[] aliceSizes, int[] bobSizes) {
+        //Step 1: Sort the Both Arrays for binary search
+        Arrays.sort(aliceSizes);
+        Arrays.sort(bobSizes);
+        //step 2: Calcaulate total ALice has
+        int sumA = 0;
+        for(int i = 0;i<aliceSizes.length;i++){
+            sumA = sumA + aliceSizes[i];
+        }
+        //Step 3: Calculate total Candies for Bob has
+        int sumB = 0;
+        for(int i = 0;i<bobSizes.length;i++){
+            sumB = sumB+bobSizes[i];
+        }
+        // Step 4: Calculate the difference needed to make totals equal
+        // Formula: diff = (sumA - sumB)/2
+        // This comes from equation: sumA - x + y = sumB - y + x
+        int diff = (sumA - sumB)/2;
+        for(int x : aliceSizes){
+            int y = x - diff;
+        
+        //start using Binary Search Algorithm check if bob has a box with y candies
+        int start = 0;
+        int end = bobSizes.length-1;
+
+        while(start<=end){
+            int mid = start + (end - start)/2;
+
+            if(bobSizes[mid] == y){
+                 // Found! Bob has the exact box we need
+                // Return the pair [what Alice gives, what Bob gives]
+                return new int[]{x,y};
+            }else if(bobSizes[mid]<y){
+                // Current box is too small, search right half
+                start = mid + 1;
+            }else{
+                // Current box is too large, search left half
+                   end = mid - 1;
+                }
+            }
+             // If binary search ends without finding y, try next x
+        }
+        // Step 7: If no pair found (should never reach here because problem guarantees at least one answer exists)
+
+    return new int[]{-1,-1};
     }
 }
