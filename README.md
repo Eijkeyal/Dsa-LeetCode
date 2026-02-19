@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1929-concatenation-of-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2540-minimum-common-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2540-minimum-common-value) |
 ## Math
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -312,5 +315,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1201-ugly-number-iii) |
+## Recursion
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End--> 
 
