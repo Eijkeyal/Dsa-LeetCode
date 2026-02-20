@@ -17,7 +17,7 @@ class Solution {
                     //Also this steps indicates the there is no odd digits can placed this means in second digit can have all digit like odd,even and een zero
                     if(third%2!=0) continue;
                     // This line forms a 3-digit number from three separate digits
-// Example: if first=3, second=2, third=1 → 3*100 + 2*10 + 1 = 300 + 20 + 1 = 321
+                   // Example: if first=3, second=2, third=1 → 3*100 + 2*10 + 1 = 300 + 20 + 1 = 321
                     int number = first * 100 + second * 10 + third;
                     resultSet.add(number);
                 }
