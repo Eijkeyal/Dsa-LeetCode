@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1201-ugly-number-iii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1201-ugly-number-iii) |
 ## Binary Search
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0825-friends-of-appropriate-ages](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0825-friends-of-appropriate-ages) |
