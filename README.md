@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2418-sort-the-people) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2540-minimum-common-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2706-buy-two-chocolates](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2706-buy-two-chocolates) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2540-minimum-common-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
