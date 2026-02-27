@@ -7,6 +7,7 @@ class Solution {
         }
         
         // Your nested loop with custom comparison
+        //Sort the Array
         for (int i = 0; i < strs.length; i++) {
             for (int j = i + 1; j < strs. length; j++) {
                 // Compare concatenations
