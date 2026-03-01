@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2706-buy-two-chocolates](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3024-type-of-triangle](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/3024-type-of-triangle) |
 | [3477-fruits-into-baskets-ii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1201-ugly-number-iii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1201-ugly-number-iii) |
+| [3024-type-of-triangle](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3024-type-of-triangle](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/3024-type-of-triangle) |
 ## String
 |  |
 | ------- |
