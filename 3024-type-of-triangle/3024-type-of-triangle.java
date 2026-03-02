@@ -1,17 +1,19 @@
 class Solution {
     public String triangleType(int[] nums) {
         Arrays.sort(nums);
-        //Triangle inequality check
+        // Step 1: Triangle inequality check
       if(nums[0] + nums[1]<=nums[2]){
         return "none";
       }
-      //Determine check
+      //step 2: Determine check
       if(nums[0]==nums[2]){
         return "equilateral";//All equal
       }
+      //Step 3: Two sides equal
       if(nums[0]==nums[1] || nums[1]==nums[2]){
-        return "isosceles";//Two sides equal
+        return "isosceles";
       }
-      return "scalene";//All Different
+      //Step 4: All Different
+      return "scalene";
     }
 }
