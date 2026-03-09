@@ -4,24 +4,25 @@ class Solution {
         int end = nums.length-1;
         while(start<=end){
             int mid = start + (end - start)/2;
-            if(nums[mid]==target){
+            //Step 1: Check the target is equal to the Mid or not
+            if(nums[mid] == target){
                 return mid;
-                }
-            if(nums[start]<=nums[mid]){
-                if(nums[start]<= target && nums[mid]>=target){// for left sorted array
-                end = mid-1;
+            }
+            //Step 2: Check which half is sorted
+            if(nums[start]<= nums[mid]){//Left half is sorted
+                if(nums[start]<=target && target<nums[mid]){
+                    end = mid - 1;//Target is left half
                 }else {
-                    start =mid +1;
+                    start = mid + 1;//Target is right half
                 }
-                }else { 
-                    if(nums[mid]<=target && nums[end]>=target){
-                        start = mid +1;
-                }else{
-                    end = mid-1;
+            } else {//Righ half is sorted 
+                if(nums[mid]<target && target<=nums[end]){
+                    start = mid + 1;//Target is left half
+                }else {
+                    end = mid - 1;//Target is in right half
                 }
-
             }
         }
-        return-1;
+        return -1;//Target Not found
     }
 }
