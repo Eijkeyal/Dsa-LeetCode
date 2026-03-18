@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0541-reverse-string-ii) |
 | [0825-friends-of-appropriate-ages](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0825-friends-of-appropriate-ages) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0541-reverse-string-ii) |
 | [2418-sort-the-people](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2418-sort-the-people) |
 ## Greedy
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Bit Manipulation
 |  |
