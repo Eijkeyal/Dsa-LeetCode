@@ -1,5 +1,6 @@
 class Solution {
     public boolean validPalindrome(String s) {
+        //Validating the palindrime using two pointer approach
         int i = 0;
         int j = s.length()-1;
         while(i<j){
