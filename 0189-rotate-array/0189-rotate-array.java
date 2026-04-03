@@ -1,5 +1,6 @@
 class Solution {
     public void rotate(int[] nums, int k) {
+      //Using Two Pointer Approach
        int n = nums.length;
        k = k%n; //in case k is greater than n 
        int result[] = new int[n];//create a new array to store
