@@ -1,5 +1,6 @@
 class Solution {
     public int triangleNumber(int[] nums) {
+        //sort the array
        Arrays.sort(nums);
        int count = 0;
        int n = nums.length;
