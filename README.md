@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
