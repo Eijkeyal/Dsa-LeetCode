@@ -1,5 +1,6 @@
 class Solution {
     public int getMinDistance(int[] nums, int target, int start) {
+       //using two pointer approach
        int left = start;
        int right  = start;
        while(left>=0 || right<nums.length){
