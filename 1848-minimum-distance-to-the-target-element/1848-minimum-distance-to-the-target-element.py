@@ -7,7 +7,7 @@ class Solution(object):
         :rtype: int
         """
         #using two pointer approach
-        left =start
+        left =start #python
         right = start
         while left>=0 or right<len(nums):
             if left>=0 and nums[left] == target:
