@@ -1,5 +1,6 @@
 class Solution(object):
     def findDuplicates(self, nums):
+        """using python"""
         #sort the array
         nums.sort()
         #create result list
