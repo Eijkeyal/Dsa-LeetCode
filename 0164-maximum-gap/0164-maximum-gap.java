@@ -13,7 +13,6 @@ class Solution {
                 maxGap = gap;
             }
         }
-        //Step 4: Update the maximum gap of element
         return maxGap;
     }
 }
