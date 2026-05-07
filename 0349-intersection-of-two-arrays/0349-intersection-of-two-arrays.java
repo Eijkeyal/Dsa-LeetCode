@@ -77,6 +77,7 @@ class Solution{
 //usint two pointer approach
 class Solution{
     public int[] intersection(int[] nums1, int [] nums2){
+        //sort two arrays
         Arrays.sort(nums1);
         Arrays.sort(nums2);
         int i = 0;
