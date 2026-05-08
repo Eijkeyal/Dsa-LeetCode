@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0696-count-binary-substrings) |
 | [0917-reverse-only-letters](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0917-reverse-only-letters) |
 | [2418-sort-the-people](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2418-sort-the-people) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
 |  |
 | ------- |
