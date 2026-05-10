@@ -407,5 +407,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End--> 
 
