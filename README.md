@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0274-h-index) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0274-h-index) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
