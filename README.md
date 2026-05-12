@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1185-day-of-the-week](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1185-day-of-the-week) |
 | [1201-ugly-number-iii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1201-ugly-number-iii) |
 | [3024-type-of-triangle](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/3024-type-of-triangle) |
 ## Binary Search
