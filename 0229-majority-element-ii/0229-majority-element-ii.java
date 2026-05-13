@@ -1,5 +1,6 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
+        //using hash table
         int n = nums.length;
         List<Integer>result = new ArrayList<>();
         Map<Integer,Integer>countMap = new HashMap<>();
