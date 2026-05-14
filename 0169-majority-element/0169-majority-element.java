@@ -1,5 +1,6 @@
 class Solution {
     public int majorityElement(int[] nums) {
+        //putting the value of numa in n 
         int n = nums.length;
         for(int i = 0;i<n;i++){
             int count = 0;//count how many times nums[i] appears
