@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0441-arranging-coins) |
+| [0475-heaters](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0704-binary-search) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0611-valid-triangle-number) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
