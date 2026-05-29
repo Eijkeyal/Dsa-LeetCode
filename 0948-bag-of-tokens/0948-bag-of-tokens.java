@@ -1,5 +1,6 @@
 class Solution {
     public int bagOfTokensScore(int[] tokens, int power) {
+        //sort the array
         Arrays.sort(tokens);
         int left = 0;
         int right = tokens.length-1;
