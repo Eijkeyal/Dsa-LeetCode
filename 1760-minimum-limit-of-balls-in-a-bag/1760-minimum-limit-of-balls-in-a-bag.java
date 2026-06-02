@@ -1,6 +1,7 @@
 class Solution {
     public int minimumSize(int[] nums, int maxOperations) {
         int left = 1;
+        //using buneary search
         int right  = 0;
         //find maximum ball in the bag upper bound
         for (int num:nums){
