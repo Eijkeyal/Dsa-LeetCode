@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2706-buy-two-chocolates](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/3024-type-of-triangle) |
 | [3477-fruits-into-baskets-ii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/3024-type-of-triangle) |
 ## String
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2974-minimum-number-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2974-minimum-number-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
