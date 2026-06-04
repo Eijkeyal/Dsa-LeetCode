@@ -1,5 +1,6 @@
 class Solution {
     public int[] numberGame(int[] nums) {
+        //sort the array
         Arrays.sort(nums);
         int[] arr = new int[nums.length];
         
