@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2418-sort-the-people) |
+| [2460-apply-operations-to-an-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2540-minimum-common-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2460-apply-operations-to-an-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2974-minimum-number-game](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/2974-minimum-number-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
