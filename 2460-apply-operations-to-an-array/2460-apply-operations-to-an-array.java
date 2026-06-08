@@ -1,5 +1,6 @@
 class Solution {
     public int[] applyOperations(int[] nums) {
+        //using two pointers
        //using fast & slow pointers
        int slow = 0;
        for(int fast = 0;fast<nums.length;fast++){
