@@ -449,5 +449,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Eijkeyal/Dsa-LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End--> 
 
