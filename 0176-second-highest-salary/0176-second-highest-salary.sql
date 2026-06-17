@@ -1,3 +1,4 @@
+/*oraclw sql*/
 select max(salary) as secondhighestsalary 
 from employee
  where 
